@@ -17,13 +17,13 @@ export default class Login extends Component {
         <div className="field">
 <div className="field1">
   <label for="username">Login</label><br/>
-  <input style={{width:"378px"}} type="email" placeholder="@hdfc.com" required/>
+  <input style={{width:"377px"}} type="email" placeholder="@hdfc.com" required/>
   </div>
 </div>
         <div className="field">
 <div className="field1">
   <label for="Password">Password</label><br/>
-  <input style={{width:"378px"}} type="password" placeholder="Password" required/>
+  <input style={{width:"377px"}} type="password" placeholder="Password" required/>
   </div>
 </div>
 <div className="field">
